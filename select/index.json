@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "1997",
+  "base_artist": "Regallily",
+  "createdAt": "2025-12-20T12:32:02.568876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pallas Athena (Live In Amsterdam 1997)",
+      "artist": "Tao Jones Index",
+      "has_synced": false,
+      "path": "select/01_Pallas_Athena_(Live_In_Amsterdam_1997)_Tao_Jones_Index.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "O Superman - Live at the Phoenix Festival, Long Marston, 20th July, 1997",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/02_O_Superman_-_Live_at_the_Phoenix_Festival,_Long_Marston,_20th_July,_1997_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Paranoid Android (Glastonbury 1997)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/03_Paranoid_Android_(Glastonbury_1997)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Paranoid Android (Jools Holland 1997)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/04_Paranoid_Android_(Jools_Holland_1997)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey Boy Hey Girl - Live At Lowlands Festival, 1997",
+      "artist": "The Chemical Brothers",
+      "has_synced": false,
+      "path": "select/05_Hey_Boy_Hey_Girl_-_Live_At_Lowlands_Festival,_1997_The_Chemical_Brothers.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Ain't Much Different - 1997 / Live At The Coca Cola Star Amphitheatre, Bugettstown, PA",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/06_We_Ain't_Much_Different_-_1997___Live_At_The_Coca_Cola_Star_Amphitheatre,_Bugett_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "1997",
+      "artist": "Gazebo",
+      "has_synced": false,
+      "path": "select/07_1997_Gazebo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Peacekeeper (Live 1997) [2018 Remaster]",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/08_Peacekeeper_(Live_1997)_[2018_Remaster]_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Say You Will - Live 1997; 2018 Remaster",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/09_Say_You_Will_-_Live_1997;_2018_Remaster_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Spring - Live At Mayday 1997",
+      "artist": "RMB",
+      "has_synced": false,
+      "path": "select/10_Spring_-_Live_At_Mayday_1997_RMB.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Atlantis 1997",
+      "artist": "Futurecop! feat.Cavaliers of Fun",
+      "has_synced": true,
+      "path": "select/11_Atlantis_1997_Futurecop!_feat.Cavaliers_of_Fun.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Atlantis 1997",
+      "artist": "Futurecop! Cavaliers Of Fun",
+      "has_synced": true,
+      "path": "select/12_Atlantis_1997_Futurecop!_Cavaliers_Of_Fun.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Whiskeyclone, Hotel City 1997",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/13_Whiskeyclone,_Hotel_City_1997_Beck.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eldorado 1997",
+      "artist": "Manu Chao",
+      "has_synced": false,
+      "path": "select/14_Eldorado_1997_Manu_Chao.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1997",
+      "artist": "Regal Lily",
+      "has_synced": false,
+      "path": "select/pl_01_1997_Regal_Lily.txt"
+    }
+  ]
+}
